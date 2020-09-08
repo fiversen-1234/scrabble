@@ -30,7 +30,7 @@ Installation.
 -------------
 Unzip the files, create the sub folders  'data' and 'dbgfiles'.<br/>
 
-If the folder name is different from 'scrabDev', you have to adapt the files.
+If the folder name is different from 'scrab', you have to adapt the files.
 * The varible '<b>BASEURL</b>' in  'spiel3.cgi', 'spiel3.2.js'<br>
 * The variable '<b>HOMEDIR</b>' in 'FScrabMulti.pm', 'FScrabSpieler.pm'.
 
@@ -38,7 +38,7 @@ If the folder name is different from 'scrabDev', you have to adapt the files.
 How to play scrabble ?
 ----------------------
 See  
-https://en.wikipedia.org/wiki/Scrabble  .
+https://en.wikipedia.org/wiki/Scrabble ,
 https://de.wikipedia.org/wiki/Scrabble  .
 
 
