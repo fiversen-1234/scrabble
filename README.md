@@ -30,8 +30,7 @@ CGI, CGI::Carp and Net::SMTP to write emails.
 Installation.
 -------------
 Unzip the files.
-If the folder name is different from 'scrabDev' 
-- you have to adapt the files.
+If the folder name is different from 'scrabDev', you have to adapt the files.
 The varible 'BASEURL' in  
 - spiel3.cgi
 - spiel3.2.js
@@ -44,6 +43,7 @@ How to play scrabble ?
 ----------------------
 See  
 https://en.wikipedia.org/wiki/Scrabble
+
 https://de.wikipedia.org/wiki/Scrabble
 
 
