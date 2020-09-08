@@ -13,11 +13,10 @@ Preconditions for the browser is only to display svg-grafics.
 
 
 Precondtions of the webserver
-- directory structure
-like 
-'scrab'
-'scrab/data'
-'scrab/dbgfiles'
+directory structure like 
+- 'scrab'
+- 'scrab/data'
+- 'scrab/dbgfiles'
 
 The name 'scrabDev' is freely selectable.
 
