@@ -18,7 +18,7 @@ directory structure like
 - 'scrab/data'
 - 'scrab/dbgfiles'
 
-The name 'scrabDev' is freely selectable.
+The name 'scrab' is freely selectable.
 
 The webserver needs to run  perl scripts.
 It runs with perl version 5.
@@ -28,12 +28,13 @@ It needs the packages
 
 Installation.
 -------------
-Unzip the files.
-If the folder name is different from 'scrabDev', you have to adapt the files.
-The varible 'BASEURL' in  
+Unzip the files, create the sub folders  'data' and 'dbgfiles'.<br/>
+
+If the folder name is different from 'scrabDev', you have to adapt the files.<br/>
+The varible '<b>BASEURL</b>' in <br> 
 - spiel3.cgi
-- spiel3.2.js
-The variable 'HOMEDIR' in
+- spiel3.2.js<br>
+The variable '<b>HOMEDIR</b>' in <br>
 - FScrabMulti.pm
 - FScrabSpieler.pm
 
