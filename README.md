@@ -22,8 +22,8 @@ The name 'scrabDev' is freely selectable.
 
 The webserver needs to run  perl scripts.
 It runs with perl version 5.
-It needs the packages:
-CGI, CGI::Carp and Net::SMTP to write emails.
+It needs the packages 
+- CGI, CGI::Carp and Net::SMTP to write emails.
 
 
 Installation.
@@ -41,9 +41,8 @@ The variable 'HOMEDIR' in
 How to play scrabble ?
 ----------------------
 See  
-https://en.wikipedia.org/wiki/Scrabble
-
-https://de.wikipedia.org/wiki/Scrabble
+https://en.wikipedia.org/wiki/Scrabble  .
+https://de.wikipedia.org/wiki/Scrabble  .
 
 
 For problems/hints - write me an email: 
