@@ -37,7 +37,22 @@ If the folder name is different from 'scrab', you have to adapt the files.
 
 How to play scrabble ?
 ----------------------
-See  
+'scrabble' is played with 2 to 4 players.
+
+The first player has to call your website,
+for example https://test123/scrabble.html
+
+In the registration dialog, the player enters his name and 
+invites up to 3 other players via email.
+
+The players receive emails with a 'link' to the Scrabble website.
+With this link you can take part in the common game.
+Each player registers on the website.
+If everyone is logged in - one, ideally the initiator, starts the
+Game.
+Each player receives his stones - the game begins.
+
+The rules of 'scrabble' see  
 https://en.wikipedia.org/wiki/Scrabble ,
 https://de.wikipedia.org/wiki/Scrabble  .
 
